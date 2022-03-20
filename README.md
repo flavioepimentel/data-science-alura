@@ -2,7 +2,6 @@
 Some excercise of data science 
 
 
-
 ### Package
 
 * jupyter
@@ -12,7 +11,7 @@ Some excercise of data science
 * scipy
 
 ### Run Notebook
- `` jupyter notebook ``
+ ```$ jupyter notebook ```
 
-### Base de dados
+### Data base used from IBGE 2015
 ``https://caelum-online-public.s3.amazonaws.com/1177-estatistica-parte1/stages/aula-1-completa.zip``
